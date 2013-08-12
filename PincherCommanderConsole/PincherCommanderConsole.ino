@@ -33,7 +33,7 @@ enum {
   IKS_SUCCESS=0, IKS_WARNING, IKS_ERROR};
 
 
-#define CNT_SERVOS  8 //(sizeof(pgm_axdIDs)/sizeof(pgm_axdIDs[0]))
+#define CNT_SERVOS  5 //(sizeof(pgm_axdIDs)/sizeof(pgm_axdIDs[0]))
 
 // Define some Min and Maxs for IK Movements...
 //                y   Z
